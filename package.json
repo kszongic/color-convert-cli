@@ -1,0 +1,17 @@
+{
+  "name": "color-convert-cli",
+  "version": "1.0.0",
+  "description": "Convert colors between hex, rgb, and hsl from the CLI. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "color-convert-cli": "./index.js"
+  },
+  "keywords": ["color", "convert", "hex", "rgb", "hsl", "cli", "terminal"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/color-convert-cli.git"
+  },
+  "files": ["index.js", "LICENSE", "README.md"]
+}
